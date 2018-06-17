@@ -1,0 +1,10 @@
+{
+  "test": {
+    "PORT": 3000,
+    "FOOD2FORK_KEY": "5d1bc76d87bd1151463de1ccfb244095"
+  },
+  "development": {
+    "PORT": 3000,
+    "FOOD2FORK_KEY": "5d1bc76d87bd1151463de1ccfb244095"
+  }
+}
