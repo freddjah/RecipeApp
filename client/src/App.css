@@ -1,0 +1,15 @@
+.appHeader {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  text-align: center;
+  color: #fff;
+  background-color: brown
+}
+
+.appHeader h1 {
+  margin: 0
+}
+
+button {
+  cursor: pointer;
+}

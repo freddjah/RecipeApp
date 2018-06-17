@@ -1,0 +1,15 @@
+.ingredientForm {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  text-align: center;
+}
+
+.ingredientForm input {
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 5px;
+}
+
+.ingredientForm button {
+  padding: 5px;
+}

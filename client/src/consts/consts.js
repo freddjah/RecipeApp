@@ -1,0 +1,7 @@
+/* INGREDIENT */
+export const ADD_INGREDIENT     = 'ADD_INGREDIENT'
+export const REMOVE_INGREDIENT  = 'REMOVE_INGREDIENT'
+
+/* RECIPES */
+export const FETCH_RECIPES      = 'FETCH_RECIPES'
+export const UPDATE_RECIPES     = 'UPDATE_RECIPES'
